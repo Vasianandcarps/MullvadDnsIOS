@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://base.dns.mullvad.net/dns-query</string>
+            </dict>
+            <key>PayloadDescription</key>
+            <string>Mullvad DNS (base) — DNS-over-HTTPS</string>
+            <key>PayloadDisplayName</key>
+            <string>Mullvad DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>net.mullvad.dns.base</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>9CCA82ED-F6CB-4E24-BF3A-47A4AC45F957</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Mullvad DNS (base)</string>
+    <key>PayloadIdentifier</key>
+    <string>net.mullvad.dns.profile.base</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>67A22EE0-B1E5-468D-8213-6D4F0A17C34D</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
