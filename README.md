@@ -1,7 +1,6 @@
 # MullvadDnsIOS
 
-A configuration profile (.mobileconfig) for setting up custom DNS on iOS 
-via Mullvad DNS-over-HTTPS (the "base" filter: blocks ads, trackers, and malware).
+A configuration profile (`.mobileconfig`) for setting up custom DNS on iOS via Mullvad DNS-over-HTTPS (the "base" filter: blocks ads, trackers, and malware).
 
 ## Installation
 
@@ -14,12 +13,11 @@ via Mullvad DNS-over-HTTPS (the "base" filter: blocks ads, trackers, and malware
 
 https://cdn.jsdelivr.net/gh/Vasianandcarps/MullvadDnsIOS@main/mullvad-dns.mobileconfig
 
-## Shortcut with instalation
+## Shortcut with installation
 
-Works properly when you have Safari as default browser. If its Brave or else check Folder where Downloads will be saved and change Folder parametr in Get Files:
+Works properly if Safari is your default browser. If you use Brave or another browser, check which folder your downloads are saved to and update the folder parameter in the "Get File" action accordingly.
 
 <img height="500" alt="signal-2026-07-26-23-08-15-046" src="https://github.com/user-attachments/assets/3b443da5-08ff-45e5-aba6-ebba0ec7d3c6" />
-
 
 ## Removal
 
