@@ -16,7 +16,7 @@ https://cdn.jsdelivr.net/gh/Vasianandcarps/MullvadDnsIOS@main/mullvad-dns.mobile
 
 ## Shortcut with instalation
 
-Works properly when you have Safari as default browser. If its Brave or else check this parametr:
+Works properly when you have Safari as default browser. If its Brave or else check Folder where Downloads will be saved and change Folder parametr in Get Files:
 <img height="500" alt="signal-2026-07-26-23-08-15-046" src="https://github.com/user-attachments/assets/3b443da5-08ff-45e5-aba6-ebba0ec7d3c6" />
 
 
