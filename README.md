@@ -14,6 +14,12 @@ via Mullvad DNS-over-HTTPS (the "base" filter: blocks ads, trackers, and malware
 
 https://cdn.jsdelivr.net/gh/Vasianandcarps/MullvadDnsIOS@main/mullvad-dns.mobileconfig
 
+## Shortcut with instalation
+
+Works properly when you have Safari as default browser. If its Brave or else check this parametr:
+<img width="887" height="1280" alt="signal-2026-07-26-23-08-15-046" src="https://github.com/user-attachments/assets/3b443da5-08ff-45e5-aba6-ebba0ec7d3c6" />
+
+
 ## Removal
 
 Settings → General → VPN & Device Management → select the profile → Remove Profile
